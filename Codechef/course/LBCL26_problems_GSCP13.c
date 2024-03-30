@@ -31,5 +31,5 @@ int main() {
         printf("%d\n", -N );
         i = i+1;
     }
-    
+    return 0;
 }
