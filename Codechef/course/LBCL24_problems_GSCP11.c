@@ -27,5 +27,5 @@ int main() {
         printf("%d %d %s ", A,B,C );
         i = i+1;
     }
-    
+    return 0;
 }
